@@ -13,31 +13,32 @@ I love exploring new technologies and applying them to solve real-world problems
 ## Find me around the WEB 🌏
 <p>
   <a href="https://www.linkedin.com/in/laiba-zafar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" style="padding: 5px; background-color: white;"/>
   </a>
+
+  
   <a href="mailto:laibazaffar01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="50" style="padding: 5px; background-color: white;"/>
   </a>
 </p>
 
 ## Technologies & Tools
-<p>
-  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" height="30"/>
-  <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" height="30"/>
-  <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" height="30"/>
-  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=sql" height="30"/>
-  <img src="https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus" height="30"/>
-  <img src="https://img.shields.io/badge/-Oracle-333?style=flat&logo=oracle" height="30"/>
-  <img src="https://img.shields.io/badge/-HTML-333?style=flat&logo=html5" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS-333?style=flat&logo=css3" height="30"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code" height="30"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-333?style=flat&logo=visual-studio" height="30"/>
-  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-333?style=flat&logo=jupyter" height="30"/>
-  <img src="https://img.shields.io/badge/-Orange-333?style=flat&logo=orange" height="30"/>
-  <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" height="30"/>
-  <img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" height="30"/>
-</p>
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" style="padding: 5px; color: orange;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" style="padding: 5px;"/>
+</p>
 
