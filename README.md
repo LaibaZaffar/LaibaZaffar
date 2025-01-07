@@ -1,14 +1,24 @@
-  # Hi there, I'm Laiba Zaffar from Pakistan! 👋
+![edited_banner](https://github.com/user-attachments/assets/c98ab7f7-0a4d-4c62-9592-626edf466a3a)
 
-## About Me?
-I'm a passionate software engineer with a keen interest in Web Development, Data Science, Machine Learning, Databases. I love exploring new technologies and applying them to solve real-world problems.
+I'm a passionate software engineer 👩🏻‍💻 from **Pakistan** with a keen interest in Web Development, Data Science, Machine Learning, Databases.
+I love exploring new technologies and applying them to solve real-world problems.
 
 - 🔭 I’m currently working on my Final Year Project which is: Football Player Analysis through Data Science and ML.
 - 🌱 I’m currently learning React and Python. 
 - 👯 I’m looking to collaborate on Data Science,ML and AI related projects.
 - 💬 Ask me about C++,Sql and Python.
 - 📫 How to reach me: laibazaffar01@gmail.com
-- ⚡ Fun fact: I enjoy writing and photography.
+- ⚡ Fun fact: I ❤ writing and photography.
+
+## Find me around the WEB 🌏
+<p>
+  <a href="https://www.linkedin.com/in/laiba-zafar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  <a href="mailto:laibazaffar01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+</p>
 
 ## Technologies & Tools
 <p>
@@ -30,12 +40,4 @@ I'm a passionate software engineer with a keen interest in Web Development, Data
   <img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" height="30"/>
 </p>
 
-## Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/laiba-zafar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  <a href="mailto:laibazaffar01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-</p>
+
