@@ -1,6 +1,7 @@
 ![edited_banner](https://github.com/user-attachments/assets/c98ab7f7-0a4d-4c62-9592-626edf466a3a)
 
-I'm a passionate software engineer 👩🏻‍💻 from **Pakistan** with a keen interest in Web Development, Data Science, Machine Learning, Databases.
+
+I'm a passionate software engineer 👩🏻‍💻 from **Pakistan**  with a keen interest in Web Development, Data Science, Machine Learning, Databases.
 I love exploring new technologies and applying them to solve real-world problems.
 
 - 🔭 I’m currently working on my Final Year Project which is: Football Player Analysis through Data Science and ML.
