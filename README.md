@@ -4,10 +4,8 @@
 I'm a passionate software engineer 👩🏻‍💻 from **Pakistan**  with a keen interest in Web Development, Data Science, Machine Learning, Databases.
 I love exploring new technologies and applying them to solve real-world problems.
 
-- 🔭 I’m currently working on my Final Year Project which is: Football Player Analysis through Data Science and ML.
-- 🌱 I’m currently learning React and Python. 
+- 🔭 I’m currently seeking a full-time role as a Software Engineer.
 - 👯 I’m looking to collaborate on Data Science,ML and AI related projects.
-- 💬 Ask me about C++,Sql and Python.
 - 📫 How to reach me: laibazaffar01@gmail.com
 - ⚡ Fun fact: I ❤ writing and photography.
 
